@@ -51,9 +51,14 @@
 ._文本段落 {
   text-align:left;
 }
+._流程形状 {
+}
 .box_2 {
 }
 .button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 .table_cell {
 }
@@ -102,6 +107,10 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .heading_1 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -123,11 +132,34 @@
 }
 ._默认样式 {
 }
+.heading_2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
 ._图片1 {
+}
+.heading_11 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
 }
 .box_21 {
 }
 .label1 {
   font-size:14px;
   text-align:left;
+}
+._形状1 {
+}
+._图片2 {
+  color:#000000;
+}
+.ellipse {
+}
+._形状2 {
 }
