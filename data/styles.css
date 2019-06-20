@@ -55,6 +55,8 @@
 }
 .box_2 {
 }
+.image {
+}
 .button {
 }
 .primary_button {
@@ -130,6 +132,9 @@
   color:#000000;
   text-align:left;
 }
+._图片1 {
+  color:#000000;
+}
 ._默认样式 {
 }
 .heading_2 {
@@ -139,7 +144,7 @@
   font-size:24px;
   text-align:left;
 }
-._图片1 {
+._图片2 {
 }
 .heading_11 {
   font-family:'Arial Normal', 'Arial';
@@ -156,7 +161,7 @@
 }
 ._形状1 {
 }
-._图片2 {
+._图片3 {
   color:#000000;
 }
 .ellipse {
